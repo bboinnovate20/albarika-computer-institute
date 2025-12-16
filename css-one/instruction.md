@@ -1,12 +1,12 @@
 # CSS PRACTICE EXERCISES
 
 This assignment is designed to help you practice **common CSS properties**, including:
-- font size
-- margin and padding
-- border
-- text color
-- background color
-- basic list styling
+- font size = `font-size: 1px`
+- margin and padding `margin: 10px`
+- border = `border: 1px solid red`
+- text color: `color: #fffff`
+- background color: `background-color: red`
+- basic list styling `line-height: 10px`
 
 You are required to **write only CSS**.  
 The HTML structure will be provided separately.
@@ -71,7 +71,7 @@ Style a simple blog page that contains multiple posts and an ordered list.
    - Use a readable font - 16px
    - Remove the default browser margin
 
-2. Style the main container
+2. Style the main class
    - Set the width to about 70% of the page
    - Center it using margin
    - Add padding inside the container
@@ -83,16 +83,16 @@ Style a simple blog page that contains multiple posts and an ordered list.
    - Add space between posts
    - Use a light background color `#fafafa`
 
-4. Style the main page heading
+4. Style the main page heading `My Blog`
    - Center align the text
    - Increase the font size
    - Text Color `#222222`
 
-5. Style post headings
+5. Style post headings `Learning CSS`
    - Change the text color
    - Add space below the heading
 
-6. Style post date text
+6. Style post date text class `date`
    - Use a smaller font size
    - Set the text color `#0056b3`
 

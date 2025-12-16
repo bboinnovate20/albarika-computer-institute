@@ -1,0 +1,49 @@
+Style the body
+
+Set background color to light gray
+
+Use a simple font family (Arial)
+
+Style the .card
+
+Set width to 350px
+
+Add padding of 20px
+
+Add margin so it appears centered
+
+Add a solid border
+
+Add background color (white)
+
+Slightly round the corners
+
+Style the h1
+
+Set font size to 24px
+
+Change text color
+
+Style the .title
+
+Smaller font size than h1
+
+Text color gray
+
+Style the .description
+
+Font size 16px
+
+Add top and bottom margin
+
+Style the button
+
+Add padding
+
+Change background color
+
+Remove default border
+
+Change text color
+
+Add pointer cursor
